@@ -35,5 +35,5 @@ The model's performance is evaluated using various metrics such as Mean Squared 
 
 Below is a plot comparing the actual and predicted stock prices:
 
-![Google price Prediction Plot](google_price_predidction_plot.png)
+![Google price Prediction Plot](google_price_prediction_plot.png)
 
