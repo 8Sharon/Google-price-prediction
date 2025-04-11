@@ -1,7 +1,6 @@
 # 📈 Google Stock Price Prediction
 
-> ⚠️ **Disclaimer:** This project is intended for educational and research purposes only. It does not constitute financial advice or recommendations to buy or sell any securities. Always consult with a financial advisor before making investment decisions.
-
+ ⚠️ **Disclaimer:** All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. 
 ---
 
 ## 🗂️ Table of Contents
