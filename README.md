@@ -1,39 +1,46 @@
-## Google Stock Price Prediction
-Welcome to the Google Stock Price Prediction project! This repository contains the code and resources used to predict Google stock prices using machine learning techniques.
+# Google Stock Price Prediction
+---
 
-# Introduction:
-This project aims to predict the stock prices of Google (GOOGL) using various machine learning models. The goal is to provide accurate and timely predictions to assist in making informed investment decisions.
-Dataset
-The dataset used in this project includes historical stock prices of Google. It contains the following features:
+## Disclaimer
+All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. The content is designed to demonstrate technical capabilities and should not be used for actual financial decision-making.
 
-Date
+---
 
-Open Price
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Dataset](#dataset)
+3. [Installation](#installation)
+4. [Data Cleaning](#data-cleaning)
+5. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+6. [Model Training](#model-training)
+7. [Evaluation](#evaluation)
+8. [Results](#results)
+9. [Usage](#usage)
+10. [Contributing](#contributing)
+11. [License](#license)
+12. [Contact](#contact)
 
-High Price
+---
 
-Low Price
+## Introduction
+The **Google Stock Price Prediction** project aims to forecast the stock prices of Google (GOOGL) using advanced machine learning techniques. The primary objective is to develop models that generate accurate and timely predictions to assist users in understanding stock price trends. This repository contains all the necessary code, resources, and documentation to replicate the analysis and predictions.
 
-Close Price
+The project leverages historical stock price data and employs machine learning models, focusing on Long Short-Term Memory (LSTM) networks, to capture temporal patterns in the data.
 
-Volume
+---
 
-Data can be obtained from reliable financial data sources such as Yahoo Finance
+## Dataset
+The dataset used for this project consists of historical stock prices for Google (GOOGL). It includes the following features:
 
-# DATA CLEANING:
-Removed duplicates and filling of null values.
+| Feature      | Description                                      |
+|--------------|--------------------------------------------------|
+| Date         | The trading date                                 |
+| Open Price   | Stock price at the market opening                |
+| High Price   | Highest stock price during the trading day       |
+| Low Price    | Lowest stock price during the trading day        |
+| Close Price  | Stock price at the market closing                |
+| Volume       | Number of shares traded during the day           |
 
-# Model Training:
-I have employed  machine learning model to predict stock prices, including:
-
-Long Short-Term Memory (LSTM) networks
-
-# Evaluation:
-The model's performance is evaluated using various metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared (R²) score.
-
-# Results:
-
-Below is a plot comparing the actual and predicted stock prices:
-
-![Google price Prediction Plot](google_price_prediction_plot.png)
+### Source
+The data can be sourced from reliable financial platforms such as [Yahoo Finance](https://finance.yahoo.com/quote/GOOGL/history/). Ensure you download the dataset in CSV format for compatibility with the provided scripts.
 
