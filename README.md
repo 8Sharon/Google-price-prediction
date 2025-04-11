@@ -1,21 +1,21 @@
 # 📈 Google Stock Price Prediction
+![Stock Price Chart](https://images.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a)
 
-## Disclaimer ⚠️
-All datasets, info and reports in this repository do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and designed to demonstrate my capabilities in advanced predictive ML modeling.
+ # Disclaimer ⚠️
+All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. 
 ---
 
 
 ## 🗂️ Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
+- [Source](#source)
 - [Data Cleaning](#data-cleaning)
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [How to Run](#how-to-run)
-- [Dependencies](#dependencies)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -27,15 +27,18 @@ This project aims to predict the stock prices of Google (GOOGL) using advanced m
 
 ## 📊 Dataset
 
-The dataset used in this project contains historical stock price data for Google (GOOGL), with the following features:
+The dataset used for this project consists of historical stock prices for Google (GOOGL). It includes the following features:
 
-- `Date`
-- `Open`
-- `High`
-- `Low`
-- `Close`
-- `Volume`
+| Feature      | Description                                      |
+|--------------|--------------------------------------------------|
+| Date         | The trading date                                 |
+| Open Price   | Stock price at the market opening                |
+| High Price   | Highest stock price during the trading day       |
+| Low Price    | Lowest stock price during the trading day        |
+| Close Price  | Stock price at the market closing                |
+| Volume       | Number of shares traded during the day           |
 
+## Source
 The data can be sourced from reliable financial APIs or providers such as [Yahoo Finance](https://finance.yahoo.com/).
 
 ---
@@ -84,9 +87,36 @@ The LSTM model was able to closely track the general trend of Google's stock pri
 
 ---
 
-## 🛠️ How to Run
+# 🤝 Contributing
 
-1. Clone this repository:
+Contributions are welcome! If you'd like to help improve this project, please follow the steps below:
+
+---
+
+### 🧩 How to Contribute
+
+1. **Fork** the repository to your GitHub account.
+
+2. **Clone** your forked repo to your local machine:
    ```bash
-   git clone https://github.com/yourusername/google-stock-price-prediction.git
-   cd google-stock-price-prediction
+   git clone https://github.com/your-username/repository-name.git
+   cd repository-name
+3. **create new branch** for your feature or fix:
+   ```bash
+   git checkout -b feature-branch
+4. **make changes** commit them:
+   ```bash
+   git commit -m "Add feature"
+5. **push your changes** to your forked repository:
+  git push origin feature-branch
+
+## 📬 Contact
+
+For questions, suggestions, or feedback, feel free to reach out:
+
+- 📧 **Email**: [njerisharon611@gmail.com](njerisharon611@gmail.com)  
+- 🧑‍💻 **GitHub**: [8Sharon](https://github.com/8Sharon)  
+- 🐛 **Project Issues**: Use the [GitHub Issues](https://github.com/8Sharon/Google-price-prediction/issues) tab to report bugs or request features.
+
+
+
