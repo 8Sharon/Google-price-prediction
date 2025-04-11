@@ -1,6 +1,6 @@
 # 📈 Google Stock Price Prediction
 
- ⚠️ **Disclaimer:** All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. 
+ >⚠️ **Disclaimer:** All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. 
 ---
 
 ## 🗂️ Table of Contents
