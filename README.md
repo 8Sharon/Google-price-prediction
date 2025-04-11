@@ -1,5 +1,5 @@
 # 📈 Google Stock Price Prediction
-![Stock Price Chart]([https://images.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a](https://plus.unsplash.com/premium_photo-1681487769650-a0c3fbaed85a?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c3RvY2slMjBwcmljZXxlbnwwfHwwfHx8MA%3D%3D))
+![Stock Price Chart ](https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/zr81hdsyfwjkgqcfsbbm.jpg)
 
  # Disclaimer ⚠️
 All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual. 
