@@ -1,9 +1,7 @@
 # 📈 Google Stock Price Prediction
 
-> ⚠️ **Disclaimer:**  
-> All datasets, info, and reports in this repository do **not** contain real proprietary, confidential, or sensitive information from any company, institution, or individual.  
-> All information is **dummy** and designed to demonstrate my capabilities in **advanced predictive ML modeling**.
-
+## Disclaimer ⚠️
+**All datasets, info and reports in this repository do not contain real proprietary, confidential, or sensitive information from any company, institution, or individual. All info are dummy and designed to demonstrate my capabilities in advanced predictive ML modeling.**
 ---
 
 
