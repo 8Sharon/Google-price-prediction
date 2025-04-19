@@ -1,4 +1,6 @@
 # 📈 Google Stock Price Prediction
+ This project leverages deep learning techniques to predict the future stock prices of Google (GOOGL) using historical stock market data. By training an LSTM (Long Short-Term Memory) neural network on time series data, the model aims to capture temporal patterns and trends to forecast closing prices. This prediction system can be used as a tool for financial analysis and decision making support.
+
 ![Stock Price Chart ](https://img-cdn.inc.com/image/upload/f_webp,c_fit,w_1920,q_auto/vip/2024/10/inc-stocks-image.jpg)
 
  # ⚠️ Disclaimer
