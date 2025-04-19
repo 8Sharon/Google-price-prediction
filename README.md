@@ -6,6 +6,8 @@
  
 ## 🗂️ Table of Contents
 - [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [Objective](#objective)
 - [Dataset](#dataset)
 - [Source](#source)
 - [Data Cleaning](#data-cleaning)
@@ -22,6 +24,26 @@
 This project aims to predict the stock prices of Google (GOOGL) using advanced machine learning models. The primary objective is to generate accurate and timely predictions that could assist in making better-informed investment decisions.
 
 ---
+
+## ❓ Problem Statement
+
+Stock price prediction is a challenging task due to the highly volatile, non-linear, and time-dependent nature of the financial markets. Investors and analysts often struggle to anticipate market trends due to the complexity of the data and external influences. Traditional models may fall short in capturing the sequential patterns in historical data.
+
+There is a growing need for more sophisticated and intelligent systems that can learn from historical stock trends and provide reliable predictions.
+
+---
+
+## 🎯 Objective
+
+The objective of this project is to develop a robust deep learning model capable of predicting the closing prices of Google's stock. Specifically, this project aims to:
+
+- Use historical stock data to train a predictive model.
+- Employ LSTM neural networks to capture time-dependent trends and patterns.
+- Evaluate the model using meaningful performance metrics such as MSE, RMSE, and R² Score.
+- Visualize and compare actual vs predicted stock price trends for insight and validation.
+
+---
+
 
 ## 📊 Dataset
 
